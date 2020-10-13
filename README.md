@@ -18,4 +18,5 @@ The old releases are still available in the releases section. I strongly advise 
 
 # Related Resources
 
+ * [Discuss on Discord](https://discord.gg/67fNz4F)
  * [Developer Blog](https://blog.wetzold.com/)
